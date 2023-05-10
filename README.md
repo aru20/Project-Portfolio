@@ -4,12 +4,11 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ## 📚 Table of Contents
 
-- [Tableau](#tableau)
+- [Power BI](#tableau)
 - [Tableau](#tableau)
 - [SQL](#sql)
 - [Python](#python)
 - [Data Engineering](#data-engineering)
-
 
 
 # Power BI
