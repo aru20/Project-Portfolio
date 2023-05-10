@@ -4,7 +4,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ## 📚 Table of Contents
 
-- [Power BI](#Power BI)
+- [Power BI](#PowerBI)
 - [Tableau](#tableau)
 - [Excel](#Excel)
 - [SQL](#sql)
