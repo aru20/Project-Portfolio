@@ -3,10 +3,11 @@
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
 ## 📚 Table of Contents
+- [Tableau](#tableau)
 - [Data Engineering](#data-engineering)
 - [SQL](#sql)
 - [Python](#python)
-- [Tableau](#tableau)
+
 
 
 # Power BI
