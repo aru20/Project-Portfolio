@@ -10,6 +10,11 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [Python](#python)
 - [Data Engineering](#data-engineering)
 
+<!---
+your comment goes here
+and here
+## 📂 **Projects**
+Check my portfolio projects that showcase my Power BI, Tableau, SQL and Data Analysis Skills. 
 
 # Power BI
 
@@ -74,3 +79,5 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 
 ***
+
+-->
