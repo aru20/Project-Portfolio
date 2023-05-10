@@ -77,7 +77,7 @@ Check my portfolio projects that showcase my Power BI, Tableau, SQL and Data Ana
 
 | Project| Project Description | 
 |---|---|
-|[Excel Dashboard](https://github.com/aru20/EXCEL-Dashboard/blob/master/README.md) |I Analyzed weekly sales data of a Telecom company, created visualization using excel to adress business questions.|
+|[Telecom Sales Weekly Dashboard](https://github.com/aru20/EXCEL-Dashboard/blob/master/README.md) |I analyzed weekly sales data of a Telecom company, created visualization using excel to adress business questions.|
 
 ***
 
