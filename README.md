@@ -9,7 +9,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [Tableau](#tableau)
 - [Katie's Guides](#katies-guides)
 
-# Tableau
+# Power BI
 
 | Project Link | Project Description | Project Link |
 |---|---|---|
@@ -26,16 +26,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | 🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. | [Link](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
 
 ***
-
-# Data Engineering
-
-| Project Link | Completion Date | Tools | Project Description | 
-|---|---|---|---|
-| 🚗 [Uber Taxi](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | May 2023 | Python, GCP Storage, Compute Engine, Mage, BigQuery, Looker Studio | Developed a data pipeline utilizing ETL to process NYC Trip Record data by extracting raw data from a website, modelling it using Python on Jupyter Notebook, orchestrating the pipeline on Mage, and creating a dashboard using Looker Studio. |
-| 🐶 [Dog Adoption](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | Mar 2023 |Python, PostgreSQL | Created and built a data model from scratch and deploy into database. |
-
-***
-
 # SQL
 
 | Project Link | Area of Analysis | Project Description | 
@@ -52,7 +42,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | 🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | Data cleaning and analysis | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. |  
 
 ***
-
 # Python
 
 | Project Link | Area | Project Description | Libraries |    
@@ -66,6 +55,19 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | 🏃🏻‍♀️ [Bellabeat Fitness Tracking Analysis](https://github.com/katiehuangx/Google-Data-Analytics-Capstone/blob/main/bellabeat-data-analysis.ipynb) | EDA | Discovered insights into whether users are using the FitBit app for tracking health habits, their frequency of usage across the week and whether there is correlation between the hours logged, number of steps taken and calories burnt. | pandas, matplotlib, seaborn |
 
 ***
+
+# Data Engineering
+
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+| 🚗 [Uber Taxi](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | May 2023 | Python, GCP Storage, Compute Engine, Mage, BigQuery, Looker Studio | Developed a data pipeline utilizing ETL to process NYC Trip Record data by extracting raw data from a website, modelling it using Python on Jupyter Notebook, orchestrating the pipeline on Mage, and creating a dashboard using Looker Studio. |
+| 🐶 [Dog Adoption](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | Mar 2023 |Python, PostgreSQL | Created and built a data model from scratch and deploy into database. |
+
+***
+
+
+
+
 
 
 
