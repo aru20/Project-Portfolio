@@ -72,8 +72,14 @@ Check my portfolio projects that showcase my Power BI, Tableau, SQL and Data Ana
 | 🐶 [Dog Adoption](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | Mar 2023 |Python, PostgreSQL | Created and built a data model from scratch and deploy into database. |
 
 ***
+-->
+# Excel
 
+| Project| Project Description | 
+|---|---|
+|[Excel Dashboard](https://github.com/aru20/EXCEL-Dashboard/blob/master/README.md) |I Analyzed weekly sales data of a Telecom company, created visualization using excel to adress business questions.|
 
+***
 
 
 
@@ -81,4 +87,4 @@ Check my portfolio projects that showcase my Power BI, Tableau, SQL and Data Ana
 
 ***
 
--->
+
