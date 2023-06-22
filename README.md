@@ -54,7 +54,7 @@ Check my portfolio projects that showcase my Power BI, Tableau, SQL and Data Ana
 
 | Project | Project Description |    
 |---|---|
-
+| [Bellabeat- Fitness Tracking Case Study](https://github.com/aru20/Bellabeat-Case-Study#readme )|This is an Exploratory Data Analysis Project. I analyzed the data and discovered insights into whether users are using the FitBit app for tracking health habits, their frequency of usage across the week, and whether there is a correlation between the hours logged, number of steps taken, and calories burned. used the pandas, matplotlib, and seaborn libraries for the analysis. |
 <!--
 | 👩🏻‍💻 [CS50P - Ongoing](https://github.com/katiehuangx/CS50P/blob/main/README.md) | Programming | This repo contains the solution to the problem sets in [Harvardx CS50P Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python). | - | 
 | 📺 [TMDb Movie Analysis](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%202%20-%20TMDB%20Movie%20Analysis.ipynb) |   Data Wrangling & EDA | I analysed more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie? | pandas, matplotlib |   
